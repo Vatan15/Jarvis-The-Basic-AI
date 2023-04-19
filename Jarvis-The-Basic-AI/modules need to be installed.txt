@@ -1,0 +1,14 @@
+pyttsx3
+SpeechRecognition
+datetime
+wikipedia
+webbrowser
+os
+smtplib
+random
+tkinter
+
+if you want to run SendEmail function make sure to make a txt file named
+"pass.txt" and then write your email password in it and add that file in
+same folder where your AI code is present.
+for any doubts call me :-)
